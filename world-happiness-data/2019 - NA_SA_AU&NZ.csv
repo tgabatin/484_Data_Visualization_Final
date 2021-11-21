@@ -1,0 +1,26 @@
+Country,Region,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+New Zealand,Australia & New Zealand,7.307,1.303,1.557,1.026,0.585,0.33,0.38
+Canada,North America,7.278,1.365,1.505,1.039,0.584,0.285,0.308
+Australia,Australia & New Zealand,7.228,1.372,1.548,1.036,0.557,0.332,0.29
+Costa Rica,North America,7.167,1.034,1.441,0.963,0.558,0.144,0.093
+United States,North America,6.892,1.433,1.457,0.874,0.454,0.28,0.128
+Mexico,North America,6.595,1.07,1.323,0.861,0.433,0.074,0.073
+Chile,South America,6.444,1.159,1.369,0.92,0.357,0.187,0.056
+Guatemala,North America,6.436,0.8,1.269,0.746,0.535,0.175,0.078
+Panama,North America,6.321,1.149,1.442,0.91,0.516,0.109,0.054
+Brazil,South America,6.3,1.004,1.439,0.802,0.39,0.099,0.086
+Uruguay,South America,6.293,1.124,1.465,0.891,0.523,0.127,0.15
+El Salvador,North America,6.253,0.794,1.242,0.789,0.43,0.093,0.074
+Trinidad & Tobago,South America,6.192,1.231,1.477,0.713,0.489,0.185,0.016
+Colombia,South America,6.125,0.985,1.41,0.841,0.47,0.099,0.034
+Nicaragua,North America,6.105,0.694,1.325,0.835,0.435,0.2,0.127
+Argentina,South America,6.086,1.092,1.432,0.881,0.471,0.066,0.05
+Ecuador,South America,6.028,0.912,1.312,0.868,0.498,0.126,0.087
+Jamaica,North America,5.89,0.831,1.478,0.831,0.49,0.107,0.028
+Honduras,North America,5.86,0.642,1.236,0.828,0.507,0.246,0.078
+Bolivia,South America,5.779,0.776,1.209,0.706,0.511,0.137,0.064
+Paraguay,South America,5.743,0.855,1.475,0.777,0.514,0.184,0.08
+Peru,South America,5.697,0.96,1.274,0.854,0.455,0.083,0.027
+Dominican Republic,North America,5.425,1.015,1.401,0.779,0.497,0.113,0.101
+Venezuela,South America,4.707,0.96,1.427,0.805,0.154,0.064,0.047
+Haiti,North America,3.597,0.323,0.688,0.449,0.026,0.419,0.11
